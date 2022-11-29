@@ -1,11 +1,11 @@
 .Components {
   height: 650px;
-  width: 900px;
+  width: 1050px;
   margin: 15px;
   text-align: center;
   display: grid;
-  grid-gap: 60px;
-  flex-direction: row-reverse;
+  grid-gap: 35px;
+  /* flex-direction: row-reverse; */
   grid-template-columns: repeat(4, 200px);
   grid-template-rows: repeat(2, 275px);
 }
@@ -13,11 +13,27 @@
 .analysis {
   height: 250px;
   width: 200px;
-  background-color: blue;
+  background-color: rgb(178, 178, 216);
 }
 
 .rating {
   height: 250px;
   width: 200px;
-  background-color: yellow;
+  background-color: rgb(253, 192, 223);
+}
+
+.review {
+  height: 250px;
+  width: 200px;
+  background-color: rgb(219, 167, 176);
+}
+
+.sidebar {
+  height: 500px;
+  width: 200px;
+  background-color: rgb(221, 182, 221);
+}
+.list {
+  text-align: center;
+  margin: 90px auto;
 }
