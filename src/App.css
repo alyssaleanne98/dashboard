@@ -1,1 +1,23 @@
+.Components {
+  height: 650px;
+  width: 900px;
+  margin: 15px;
+  text-align: center;
+  display: grid;
+  grid-gap: 60px;
+  flex-direction: row-reverse;
+  grid-template-columns: repeat(4, 200px);
+  grid-template-rows: repeat(2, 275px);
+}
 
+.analysis {
+  height: 250px;
+  width: 200px;
+  background-color: blue;
+}
+
+.rating {
+  height: 250px;
+  width: 200px;
+  background-color: yellow;
+}
