@@ -1,12 +1,15 @@
-
+import Analysis from './Components/Analysis';
+import Rating from './Components/Rating';
 import './App.css';
+// import { Component } from 'react';
 
-function App() {
+function Components() {
   return (
-    <div className="App">
-     <h1>Hello</h1>
+    <div className="Components">
+     <Analysis />
+     <Rating />
     </div>
   );
 }
 
-export default App;
+export default Components;
