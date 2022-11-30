@@ -5,7 +5,7 @@ function Visitors() {
         <>
         <div className="visitors">
             <h3>Website Visitors</h3>
-            <h3>821</h3>
+            <h1>821</h1>
             <div className="filler"></div>
         </div>
         </>

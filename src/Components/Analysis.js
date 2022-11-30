@@ -7,9 +7,9 @@ function Analysis() {
             <div className="analysis">
                 <h3>Sentiment Analysis</h3>
                 <div className="data">
-                    <h3>960</h3>
-                    <h3>122</h3>
-                    <h3>321</h3>
+                    <h1>960</h1>
+                    <h1>122</h1>
+                    <h1>321</h1>
                 </div>
             </div>
         </>

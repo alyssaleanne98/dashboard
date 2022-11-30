@@ -5,12 +5,12 @@ function SideBar() {
         <>
         <div className="sidebar">
             <div className="list">
-                <h3>Dashboard</h3>
-                <h3>Widget</h3>
-                <h3>Reviews</h3>
-                <h3>Customers</h3>
-                <h3>Online Analysis</h3>
-                <h3>Settings</h3>
+                <h4>Dashboard</h4>
+                <h4>Widget</h4>
+                <h4>Reviews</h4>
+                <h4>Customers</h4>
+                <h4>Online Analysis</h4>
+                <h4>Settings</h4>
             </div>
 
         </div>
